@@ -414,3 +414,7 @@ For more details about the different mode of quotes and subscribing for them, ta
   | start | lower |
   | end | upper |
   | percent | percentage |
+
+
+## Version Update
+- **v1.0.1** (2026-06-28): Backup update with local filesystem changes.

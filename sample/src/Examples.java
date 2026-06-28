@@ -693,8 +693,7 @@ public class Examples {
         tickerProvider.setMode(tokens, KiteTicker.modeLTP);
 
         // Unsubscribe for a token.
-        tickerProvider.unsubscribe(tokens);
-
+        tickerProvider.unsubscribe(tokens)
         // After using com.zerodhatech.com.zerodhatech.ticker, close websocket connection.
         tickerProvider.disconnect();
     }
